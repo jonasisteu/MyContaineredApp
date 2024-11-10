@@ -26,7 +26,7 @@
 
 ### Pré-requis
 
-Assurez-vous que **Docker engine** est installé sur votre machine. Si ce n'est pas le cas, installez-le via [le site officiel de Docker](https://www.docker.com/products/docker-engine).
+Assurez-vous que **Docker engine** est installé sur votre machine. Si ce n'est pas le cas, installez-le via [le site officiel de Docker](https://docs.docker.com/engine/).
 
 ### Installation et construction de l'image Docker
 
