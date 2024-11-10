@@ -1,6 +1,3 @@
-Voici un modèle de `README.md` pour ton projet **My Containered App**, mettant en avant l'utilisation de scripts Bash pour gérer la construction et l'exécution d'une application conteneurisée dans Docker.
-
-```markdown
 # My Containered App
 
 ## Application conteneurisée avec Docker
